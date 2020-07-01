@@ -1,0 +1,2 @@
+.body{margin:0}.Carousel__list{display:flex;list-style:none;padding:0}.Carousel__buttons{display:flex;justify-content:space-between}.btn{width:100px;height:50px;cursor:pointer;background-color:#ff0}.btn:hover{box-shadow:0 0 10px #000}.btn:active{transform:scale(.95)}.btn:first-child{border-radius:50px 0 0 50px}.btn:last-child{border-radius:0 50px 50px 0}.Carousel{margin:0 auto;overflow:hidden;border:1px solid #000;border-radius:15px;padding:15px;box-sizing:border-box}
+/*# sourceMappingURL=main.964b501c.chunk.css.map */
